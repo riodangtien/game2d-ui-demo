@@ -1,0 +1,474 @@
+[
+  {
+    "file": "HEROES\\room_tower_hero_portraits_big-1.png",
+    "size": [
+      1180,
+      1120
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "file": "HEROES\\room_tower_hero_portraits_big-10.png",
+    "size": [
+      1180,
+      1120
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "file": "HEROES\\room_tower_hero_portraits_big-11.png",
+    "size": [
+      1180,
+      1120
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "file": "HEROES\\room_tower_hero_portraits_big-12.png",
+    "size": [
+      1180,
+      1120
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "file": "HEROES\\room_tower_hero_portraits_big-2.png",
+    "size": [
+      1180,
+      1120
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "file": "HEROES\\room_tower_hero_portraits_big-3.png",
+    "size": [
+      1180,
+      1120
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "file": "HEROES\\room_tower_hero_portraits_big-4.png",
+    "size": [
+      1180,
+      1120
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "file": "HEROES\\room_tower_hero_portraits_big-5.png",
+    "size": [
+      1180,
+      1120
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "file": "HEROES\\room_tower_hero_portraits_big-6.png",
+    "size": [
+      1180,
+      1120
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "file": "HEROES\\room_tower_hero_portraits_big-7.png",
+    "size": [
+      1180,
+      1120
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "file": "HEROES\\room_tower_hero_portraits_big-8.png",
+    "size": [
+      1180,
+      1120
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "file": "HEROES\\room_tower_hero_portraits_big-9.png",
+    "size": [
+      1180,
+      1120
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "file": "Phép bổ trợ\\room_tower_power_portraits_big-1.png",
+    "size": [
+      1180,
+      1120
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "file": "Phép bổ trợ\\room_tower_power_portraits_big-2.png",
+    "size": [
+      1180,
+      1120
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "file": "Phép bổ trợ\\room_tower_power_portraits_big-3.png",
+    "size": [
+      1180,
+      1120
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "file": "Phép bổ trợ\\room_tower_power_portraits_big-4.png",
+    "size": [
+      1180,
+      1120
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "file": "Phép bổ trợ\\room_tower_power_portraits_big-5.png",
+    "size": [
+      1180,
+      1120
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "file": "Phép bổ trợ\\room_tower_power_portraits_big-6.png",
+    "size": [
+      1180,
+      1120
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "file": "Phép bổ trợ\\room_tower_power_portraits_big-7.png",
+    "size": [
+      1180,
+      1120
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "file": "Phép bổ trợ\\room_tower_power_portraits_big-8.png",
+    "size": [
+      1180,
+      1120
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "file": "Phép bổ trợ\\room_tower_power_portraits_big-9.png",
+    "size": [
+      1180,
+      1120
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "file": "TOWER\\room_tower_tower_portraits_big-1.png",
+    "size": [
+      1180,
+      1120
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "file": "TOWER\\room_tower_tower_portraits_big-10.png",
+    "size": [
+      1180,
+      1120
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "file": "TOWER\\room_tower_tower_portraits_big-11.png",
+    "size": [
+      1180,
+      1120
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "file": "TOWER\\room_tower_tower_portraits_big-12.png",
+    "size": [
+      1180,
+      1120
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "file": "TOWER\\room_tower_tower_portraits_big-13.png",
+    "size": [
+      1180,
+      1120
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "file": "TOWER\\room_tower_tower_portraits_big-14.png",
+    "size": [
+      1180,
+      1120
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "file": "TOWER\\room_tower_tower_portraits_big-15.png",
+    "size": [
+      1180,
+      1120
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "file": "TOWER\\room_tower_tower_portraits_big-2.png",
+    "size": [
+      1180,
+      1120
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "file": "TOWER\\room_tower_tower_portraits_big-3.png",
+    "size": [
+      1180,
+      1120
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "file": "TOWER\\room_tower_tower_portraits_big-4.png",
+    "size": [
+      1180,
+      1120
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "file": "TOWER\\room_tower_tower_portraits_big-5.png",
+    "size": [
+      1180,
+      1120
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "file": "TOWER\\room_tower_tower_portraits_big-6.png",
+    "size": [
+      1180,
+      1120
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "file": "TOWER\\room_tower_tower_portraits_big-7.png",
+    "size": [
+      1180,
+      1120
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "file": "TOWER\\room_tower_tower_portraits_big-8.png",
+    "size": [
+      1180,
+      1120
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "file": "TOWER\\room_tower_tower_portraits_big-9.png",
+    "size": [
+      1180,
+      1120
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "file": "Ảnh STAGE\\go_stage01_bg-1.png",
+    "size": [
+      3940,
+      2160
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "file": "Ảnh STAGE\\go_stage02_bg-1.png",
+    "size": [
+      3940,
+      2160
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "file": "Ảnh STAGE\\go_stage03_bg-1.png",
+    "size": [
+      3940,
+      2160
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "file": "Ảnh STAGE\\go_stage04_bg-1.png",
+    "size": [
+      3940,
+      2160
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "file": "Ảnh STAGE\\go_stage05_bg-1.png",
+    "size": [
+      3940,
+      2160
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "file": "Ảnh STAGE\\go_stage06_bg-1.png",
+    "size": [
+      3940,
+      2160
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "file": "Ảnh STAGE\\go_stage07_bg-1.png",
+    "size": [
+      3940,
+      2160
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "file": "Ảnh STAGE\\go_stage08_bg-1.png",
+    "size": [
+      3940,
+      2160
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "file": "Ảnh STAGE\\go_stage08_bg-2.png",
+    "size": [
+      3940,
+      2160
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "file": "Ảnh STAGE\\go_stage09_bg-1.png",
+    "size": [
+      3940,
+      2160
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "file": "Ảnh STAGE\\go_stage10_bg-1.png",
+    "size": [
+      3940,
+      2160
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "file": "Ảnh STAGE\\go_stage11_bg-1.png",
+    "size": [
+      3940,
+      2160
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "file": "Ảnh STAGE\\go_stage12_bg-1.png",
+    "size": [
+      3940,
+      2160
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "file": "Ảnh STAGE\\go_stage13_bg-1.png",
+    "size": [
+      3940,
+      2160
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "file": "Ảnh STAGE\\go_stage14_bg-1.png",
+    "size": [
+      3940,
+      2160
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "file": "Ảnh STAGE\\go_stage15_bg-1.png",
+    "size": [
+      3940,
+      2160
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "file": "Ảnh STAGE\\go_stage16_bg-1.png",
+    "size": [
+      3940,
+      2160
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "file": "Ảnh STAGE\\go_stage17_bg-1.png",
+    "size": [
+      3940,
+      2160
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "file": "Ảnh STAGE\\go_stage18_bg-12.png",
+    "size": [
+      3944,
+      2126
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "file": "Ảnh STAGE\\go_stage18_bg-22.png",
+    "size": [
+      3944,
+      2166
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "file": "Ảnh STAGE\\loading_images_desktop-1.png",
+    "size": [
+      2732,
+      1536
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "file": "Ảnh STAGE\\map_bg-1.png",
+    "size": [
+      4852,
+      2780
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "file": "Ảnh STAGE\\screen_main_menu_bg-1.png",
+    "size": [
+      3500,
+      2432
+    ],
+    "mode": "RGBA"
+  }
+]
